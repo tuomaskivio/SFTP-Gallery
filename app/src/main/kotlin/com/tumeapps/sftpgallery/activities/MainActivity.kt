@@ -437,7 +437,7 @@ class MainActivity : SimpleActivity(), DirectoryOperationsListener {
 
     private fun tryLoadGallery() {
         if (hasPermission(PERMISSION_WRITE_STORAGE)) {
-            if (!config.wasUpgradedFromFreeShown && isPackageInstalled("com.simplemobiletools.gallery")) {
+            if (!config.wasUpgradedFromFreeShown && isPackageInstalled("com.tumeapps.sftpgallery")) {
                 ConfirmationDialog(this, "", R.string.upgraded_from_free, R.string.ok, 0) {}
                 config.wasUpgradedFromFreeShown = true
             }

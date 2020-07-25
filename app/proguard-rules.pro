@@ -1,6 +1,6 @@
--keep class com.simplemobiletools.** { *; }
+-keep class com.tumeapps.** { *; }
 -dontwarn android.graphics.Canvas
--dontwarn com.simplemobiletools.**
+-dontwarn com.tumeapps.**
 -dontwarn org.apache.**
 
 # Picasso

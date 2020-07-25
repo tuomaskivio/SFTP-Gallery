@@ -58,7 +58,6 @@ android {
 
     flavorDimensions "licensing"
     productFlavors {
-        proprietary {}
         foss {}
     }
 
