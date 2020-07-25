@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Simple Gallery</string>
+    <string name="app_name">SFTP Gallery</string>
     <string name="app_launcher_name">Galerie</string>
     <string name="edit">Modifier</string>
     <string name="open_camera">Ouvrir l\'appareil photo</string>
@@ -51,9 +51,9 @@
     <string name="exclude">Exclure le dossier</string>
     <string name="excluded_folders">Dossiers exclus</string>
     <string name="manage_excluded_folders">Gérer les dossiers exclus</string>
-    <string name="exclude_folder_description">Cela va exclure la sélection ainsi que ses sous-dossiers depuis Simple Gallery uniquement. Vous pouvez gérer les dossiers exclus depuis les paramètres.</string>
+    <string name="exclude_folder_description">Cela va exclure la sélection ainsi que ses sous-dossiers depuis SFTP Gallery uniquement. Vous pouvez gérer les dossiers exclus depuis les paramètres.</string>
     <string name="exclude_folder_parent">Exclure un dossier parent ?</string>
-    <string name="excluded_activity_placeholder">Exclure des dossiers les cachera ainsi que leurs sous-dossiers uniquement dans Simple Gallery, ils seront toujours visibles depuis d\'autres applications.\n\nSi vous voulez aussi les cacher ailleurs, utilisez la fonction \"Cacher\".</string>
+    <string name="excluded_activity_placeholder">Exclure des dossiers les cachera ainsi que leurs sous-dossiers uniquement dans SFTP Gallery, ils seront toujours visibles depuis d\'autres applications.\n\nSi vous voulez aussi les cacher ailleurs, utilisez la fonction \"Cacher\".</string>
     <string name="remove_all">Tout supprimer</string>
     <string name="remove_all_description">Supprimer tous les dossiers de la liste des exclusions ? Cela n\'effacera pas les dossiers.</string>
     <string name="hidden_folders">Dossiers cachés</string>
@@ -284,8 +284,8 @@
     <string name="pesdk_common_title_pipettableColor">Couleur de la pipette</string>
 
     <!-- FAQ -->
-    <string name="faq_1_title">Comment faire de Simple Gallery ma galerie par défaut ?</string>
-    <string name="faq_1_text">Il faut dans un premier temps, trouver l\'application \"Galerie\" par défaut dans la section \"Applications\" des paramètres de l\'appareil, puis appuyer sur \"Ouvrir par défaut\", et enfin sélectionner \"Réinitialiser les paramètres par défaut\". 		La prochaine fois que vous ouvrirez une image ou une vidéo, il vous sera proposé de choisir une application, choisissez \"Simple Gallery\" puis \"Toujours\".</string>
+    <string name="faq_1_title">Comment faire de SFTP Gallery ma galerie par défaut ?</string>
+    <string name="faq_1_text">Il faut dans un premier temps, trouver l\'application \"Galerie\" par défaut dans la section \"Applications\" des paramètres de l\'appareil, puis appuyer sur \"Ouvrir par défaut\", et enfin sélectionner \"Réinitialiser les paramètres par défaut\". 		La prochaine fois que vous ouvrirez une image ou une vidéo, il vous sera proposé de choisir une application, choisissez \"SFTP Gallery\" puis \"Toujours\".</string>
     <string name="faq_2_title">J\'ai verrouillé l\'application avec un mot de passe et je ne m\'en rappelle plus. Que faire ?</string>
     <string name="faq_2_text">Il y a deux façons de procéder. Soit vous réinstallez l\'application, soit vous recherchez l\'application dans les paramètres de l\'appareil et appuyez sur \"Effacer les données\". Cela va seulement réinitialiser les paramètres de l\'application et ne supprimera pas vos fichiers.</string>
     <string name="faq_3_title">Comment faire pour qu\'un album soit toujours affiché tout en haut ?</string>
@@ -293,7 +293,7 @@
     <string name="faq_4_title">Comment avancer rapidement dans les vidéos ?</string>
     <string name="faq_4_text">Appuyez deux fois sur le côté de l\'écran, ou appuyez sur la valeur de durée actuelle ou maximale près de la barre de recherche. Si vous activez l\'ouverture des vidéos sur un écran séparé dans les paramètres de l\'application, vous pouvez également utiliser des gestes horizontaux.</string>
     <string name="faq_5_title">Quelle est la différence entre cacher et exclure un dossier ?</string>
-    <string name="faq_5_text">\"Exclure un dossier\" permet de ne pas l\'afficher uniquement dans Simple Gallery, alors que \"Cacher un dossier\" rend le dossier invisible sur l\'ensemble de l\'appareil, y compris pour les autres applications de galerie. Dans le dernier cas, un fichier \".nomedia\" est créé dans le dossier caché, et peut être supprimé avec n\'importe quel explorateur de fichiers. Notez que certains appareils ne permettent pas de masquer certains dossiers tels qu\'Appareil photo, Captures d\'écran et Téléchargements.</string>
+    <string name="faq_5_text">\"Exclure un dossier\" permet de ne pas l\'afficher uniquement dans SFTP Gallery, alors que \"Cacher un dossier\" rend le dossier invisible sur l\'ensemble de l\'appareil, y compris pour les autres applications de galerie. Dans le dernier cas, un fichier \".nomedia\" est créé dans le dossier caché, et peut être supprimé avec n\'importe quel explorateur de fichiers. Notez que certains appareils ne permettent pas de masquer certains dossiers tels qu\'Appareil photo, Captures d\'écran et Téléchargements.</string>
     <string name="faq_6_title">Pourquoi des dossiers avec des pochettes d\'albums musicaux ou des miniatures d\'images sont affichés ?</string>
     <string name="faq_6_text">Il est possible que des albums qui ne devraient pas être affichés le soient. Vous pouvez les exclure facilement en les sélectionnant par un appui prolongé, puis en choisissant l\'option \"Exclure\", après quoi vous pouvez aussi sélectionner le dossier parent, ce qui devrait éviter l\'apparition d\'albums similaires.</string>
     <string name="faq_7_title">Un dossier avec des images n\'apparaît pas. Que faire ?</string>
@@ -315,27 +315,27 @@
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
-    <string name="app_title">Simple Gallery Pro - Photo Manager &amp; Editor</string>
+    <string name="app_title">SFTP Gallery - Photo Manager &amp; Editor</string>
     <!-- Short description has to have less than 80 chars -->
     <string name="app_short_description">Browse your memories without any interruptions with this photo and video gallery</string>
     <string name="app_long_description">
-        Simple Gallery Pro is a highly customizable offline gallery. Organize &amp; edit your photos, recover deleted files with the recycle bin, protect &amp; hide files and view a huge variety of different photo &amp; video formats including RAW, SVG and much more.
+        SFTP Gallery is a highly customizable offline gallery. Organize &amp; edit your photos, recover deleted files with the recycle bin, protect &amp; hide files and view a huge variety of different photo &amp; video formats including RAW, SVG and much more.
 
         The app contains no ads and unnecessary permissions. As the app doesn’t require internet access either, your privacy is protected.
 
         -------------------------------------------------
-        <b>SIMPLE GALLERY PRO – FEATURES</b>
+        <b>SFTP GALLERY – FEATURES</b>
         -------------------------------------------------
 
         • Offline gallery with no ads or popups
-        • Simple gallery photo editor – crop, rotate, resize, draw, filters &amp; more
+        • SFTP gallery photo editor – crop, rotate, resize, draw, filters &amp; more
         • No internet access needed, giving you more privacy and security
         • No unnecessary permissions required
         • Quickly search images, videos &amp; files
         • Open &amp; view many different photo and video types (RAW, SVG, panoramic etc)
         • A variety of intuitive gestures to easily edit &amp; organize files
         • Lots of ways to filter, group &amp; sort files
-        • Customize the appearance of Simple Gallery Pro
+        • Customize the appearance of SFTP Gallery
         • Available in 32 languages
         • Mark files as favorites for quick access
         • Protect your photos &amp; videos with a pattern, pin or fingerprint
@@ -344,20 +344,20 @@
         • Toggle visibility of files to hide photos &amp; videos
         • Create a customizable slideshow of your files
         • View detailed information of your files (resolution, EXIF values etc)
-        • Simple Gallery Pro is open source
+        • SFTP Gallery is open source
         … and much much more!
 
         <b>PHOTO GALLERY EDITOR</b>
-        Simple Gallery Pro makes it easy to edit your pictures on the fly. Crop, flip, rotate and resize your pictures. If you’re feeling a little more creative you can add filters and draw on your pictures!
+        SFTP Gallery makes it easy to edit your pictures on the fly. Crop, flip, rotate and resize your pictures. If you’re feeling a little more creative you can add filters and draw on your pictures!
 
         <b>SUPPORT FOR MANY FILE TYPES</b>
-        Unlike some other gallery viewers &amp; photo organizers, Simple Gallery Pro supports a huge range of different file types including JPEG, PNG, MP4, MKV, RAW, SVG, Panoramic photos, Panoramic videos and many more.
+        Unlike some other gallery viewers &amp; photo organizers, SFTP Gallery supports a huge range of different file types including JPEG, PNG, MP4, MKV, RAW, SVG, Panoramic photos, Panoramic videos and many more.
 
         <b>HIGHLY CUSTOMIZABLE GALLERY MANAGER</b>
-        From the UI to the function buttons on the bottom toolbar, Simple Gallery Pro is highly customizable and works the way you want it to. No other gallery manager has this kind of flexibility! Thanks to being open source, we’re also available in 32 languages!
+        From the UI to the function buttons on the bottom toolbar, SFTP Gallery is highly customizable and works the way you want it to. No other gallery manager has this kind of flexibility! Thanks to being open source, we’re also available in 32 languages!
 
         <b>RECOVER DELETED PHOTOS &amp; VIDEOS</b>
-        Accidentally deleted a precious photo or video? Don’t worry! Simple Gallery Pro features a handy recycle bin where you can recover deleted photos &amp; videos easily.
+        Accidentally deleted a precious photo or video? Don’t worry! SFTP Gallery features a handy recycle bin where you can recover deleted photos &amp; videos easily.
 
         <b>PROTECT &amp; HIDE PHOTOS, VIDEOS &amp; FILES</b>
         Using pin, pattern or your device’s fingerprint scanner you can protect and hide photos, videos &amp; entire albums. You can protect the app itself or place locks on specific functions of the app. For example, you can’t delete a file without a fingerprint scan, helping to protect your files from accidental deletion.
@@ -365,7 +365,7 @@
         <b>Check out the full suite of Simple Tools here:</b>
         https://www.simplemobiletools.com
 
-        <b>Standalone website of Simple Gallery Pro:</b>
+        <b>Standalone website of SFTP Gallery:</b>
         https://www.simplemobiletools.com/gallery
 
         <b>Facebook:</b>

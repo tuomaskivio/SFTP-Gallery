@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Simple Gallery</string>
+    <string name="app_name">SFTP Gallery</string>
     <string name="app_launcher_name">Thư viện</string>
     <string name="edit">Biên tập</string>
     <string name="open_camera">Mở Camera</string>
@@ -51,9 +51,9 @@
     <string name="exclude">Loại trừ</string>
     <string name="excluded_folders">Các thư mục bị loại trừ</string>
     <string name="manage_excluded_folders">Quản lý các thư mục loại trừ</string>
-    <string name="exclude_folder_description">Điều này sẽ loại trừ lựa chọn cùng với các thư mục con của nó khỏi Simple Gallery. Bạn có thể quản lý các thư mục loại trừ trong Cài đặt.</string>
+    <string name="exclude_folder_description">Điều này sẽ loại trừ lựa chọn cùng với các thư mục con của nó khỏi SFTP Gallery. Bạn có thể quản lý các thư mục loại trừ trong Cài đặt.</string>
     <string name="exclude_folder_parent">Loại trừ thư mục mẹ thay thế?</string>
-    <string name="excluded_activity_placeholder">Các thư mục loại trừ sẽ làm cho chúng cùng với các thư mục con của chúng bị ẩn chỉ trong Simple Gallery, chúng vẫn sẽ hiển thị trong các ứng dụng khác.\n\nNếu bạn cũng muốn ẩn chúng khỏi các ứng dụng khác, hãy sử dụng chức năng Ẩn.</string>
+    <string name="excluded_activity_placeholder">Các thư mục loại trừ sẽ làm cho chúng cùng với các thư mục con của chúng bị ẩn chỉ trong SFTP Gallery, chúng vẫn sẽ hiển thị trong các ứng dụng khác.\n\nNếu bạn cũng muốn ẩn chúng khỏi các ứng dụng khác, hãy sử dụng chức năng Ẩn.</string>
     <string name="remove_all">Xóa tất cả</string>
     <string name="remove_all_description">Xóa tất cả các thư mục khỏi danh sách loại trừ? Điều này sẽ không xóa các thư mục.</string>
     <string name="hidden_folders">Các thư mục ẩn</string>
@@ -284,9 +284,9 @@
     <string name="pesdk_common_title_pipettableColor">Màu sắc dễ thương</string>
 
     <!-- FAQ -->
-    <string name="faq_1_title">Làm thế nào để đặt Simple Gallery thành thư viện mặc định?</string>
+    <string name="faq_1_title">Làm thế nào để đặt SFTP Gallery thành thư viện mặc định?</string>
     <string name="faq_1_text">Trước tiên, bạn phải tìm thư viện hiện tại mặc định trong phần Ứng dụng trong Cài đặt thiết bị của bạn, tìm nút có nội dung như \"Mở theo mặc định\", nhấp vào đó, sau đó chọn \"Xóa mặc định\".
-         Lần tới, bạn hãy thử mở một hình ảnh hoặc video, bạn sẽ thấy một bộ chọn ứng dụng, nơi bạn có thể chọn Simple Gallery và biến nó thành ứng dụng mặc định.</string>
+         Lần tới, bạn hãy thử mở một hình ảnh hoặc video, bạn sẽ thấy một bộ chọn ứng dụng, nơi bạn có thể chọn SFTP Gallery và biến nó thành ứng dụng mặc định.</string>
     <string name="faq_2_title">Tôi đã khóa ứng dụng bằng mật khẩu, nhưng tôi quên mất. Tôi có thể làm gì?</string>
     <string name="faq_2_text">Bạn có thể giải quyết nó theo 2 cách. Bạn có thể cài đặt lại ứng dụng hoặc tìm ứng dụng trong cài đặt thiết bị của mình và chọn \"Xóa dữ liệu\". Nó sẽ thiết lập lại tất cả các cài đặt của bạn, nó sẽ không xóa bất kỳ tập tin phương tiện nào.</string>
     <string name="faq_3_title">Làm thế nào tôi có thể làm cho một album luôn xuất hiện ở đầu?</string>
@@ -317,15 +317,15 @@
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
-    <string name="app_title">Simple Gallery Pro - Trình quản lý ảnh &amp; biên tập</string>
+    <string name="app_title">SFTP Gallery - Trình quản lý ảnh &amp; biên tập</string>
     <!-- Short description has to have less than 80 chars -->
     <string name="app_short_description">Browse your memories without any interruptions with this photo and video gallery</string>
     <string name="app_long_description">
-        Simple Gallery Pro là một bộ sưu tập ngoại tuyến có khả năng tùy biến cao. Tổ chức &amp; chỉnh sửa ảnh của bạn, khôi phục các tệp đã xóa bằng thùng rác, bảo vệ &amp; ẩn các tệp và xem được nhiều định dạng ảnh &amp; video bao gồm RAW, SVG và nhiều hơn nữa.    
+        SFTP Gallery là một bộ sưu tập ngoại tuyến có khả năng tùy biến cao. Tổ chức &amp; chỉnh sửa ảnh của bạn, khôi phục các tệp đã xóa bằng thùng rác, bảo vệ &amp; ẩn các tệp và xem được nhiều định dạng ảnh &amp; video bao gồm RAW, SVG và nhiều hơn nữa.    
         Ứng dụng này không chứa quảng cáo và các quyền không cần thiết. Vì ứng dụng không có yêu cầu truy cập internet, quyền riêng tư của bạn sẽ được bảo vệ.
 
         -------------------------------------------------
-        <b>SIMPLE GALLERY PRO – TÍNH NĂNG</b>
+        <b>SFTP GALLERY – TÍNH NĂNG</b>
         -------------------------------------------------
 
        • Thư viện ngoại tuyến không có quảng cáo hoặc popups  
@@ -344,7 +344,7 @@
 
        • Rất nhiều cách để lọc, nhóm &amp; sắp xếp tập tin
 
-       • Tùy chỉnh giao diện của Simple Gallery Pro   
+       • Tùy chỉnh giao diện của SFTP Gallery   
 
        • Có sẵn trong 32 ngôn ngữ   
 
@@ -362,21 +362,21 @@
 
        • Xem thông tin chi tiết về các tập tin của bạn (độ phân giải, giá trị EXIF, v.v.)
 
-       • Simple Gallery Pro là mã nguồn mở
+       • SFTP Gallery là mã nguồn mở
 
          Nhiều và nhiều hơn nữa!
 
         <b>TRÌNH BIÊN TẬP ẢNH</b>
-        Simple Gallery Pro giúp bạn dễ dàng chỉnh sửa ảnh của mình một cách nhanh chóng. Cắt, lật, xoay và thay đổi kích thước hình ảnh của bạn. Nếu bạn cảm thấy sáng tạo hơn một chút, bạn có thể thêm các bộ lọc và vẽ lên hình ảnh của mình!
+        SFTP Gallery giúp bạn dễ dàng chỉnh sửa ảnh của mình một cách nhanh chóng. Cắt, lật, xoay và thay đổi kích thước hình ảnh của bạn. Nếu bạn cảm thấy sáng tạo hơn một chút, bạn có thể thêm các bộ lọc và vẽ lên hình ảnh của mình!
 
         <b>HỖ TRỢ NHIỀU ĐỊNH DẠNG FILE</b>
-        Không giống như một số Trình xem thư viện khác &amp; Trình tổ chức ảnh, Simple Gallery Pro hỗ trợ rất nhiều loại tệp khác nhau bao gồm JPEG, PNG, MP4, MKV, RAW, SVG, Ảnh toàn cảnh, Video toàn cảnh và nhiều loại khác.
+        Không giống như một số Trình xem thư viện khác &amp; Trình tổ chức ảnh, SFTP Gallery hỗ trợ rất nhiều loại tệp khác nhau bao gồm JPEG, PNG, MP4, MKV, RAW, SVG, Ảnh toàn cảnh, Video toàn cảnh và nhiều loại khác.
 
         <b>TRÌNH QUẢN LÝ THƯ VIỆN TÙY BIẾN CAO</b>
-        Từ giao diện người dùng đến các nút chức năng trên thanh công cụ dưới cùng, Simple Gallery Pro có khả năng tùy biến cao và hoạt động theo cách bạn muốn. Không có trình quản lý thư viện nào khác có sự linh hoạt này! Nhờ nguồn mở, chúng tôi cũng có sẵn trong 32 ngôn ngữ!
+        Từ giao diện người dùng đến các nút chức năng trên thanh công cụ dưới cùng, SFTP Gallery có khả năng tùy biến cao và hoạt động theo cách bạn muốn. Không có trình quản lý thư viện nào khác có sự linh hoạt này! Nhờ nguồn mở, chúng tôi cũng có sẵn trong 32 ngôn ngữ!
 
         <b>PHỤC HỒI ẢNH  &amp; VIDEO ĐÃ BỊ XÓA</b>
-        Vô tình xóa một bức ảnh hoặc video quý giá? Hãy lo lắng! Simple Gallery Pro có thùng rác tiện dụng, nơi bạn có thể khôi phục ảnh &amp; video đã xóa dễ dàng.
+        Vô tình xóa một bức ảnh hoặc video quý giá? Hãy lo lắng! SFTP Gallery có thùng rác tiện dụng, nơi bạn có thể khôi phục ảnh &amp; video đã xóa dễ dàng.
 
         <b>BẢO VỆ &amp; ẨN ẢNH ,VIDEO &amp; TỆP</b>
         Sử dụng Mã pin, mẫu hình hoặc vân tay của bạn, bạn có thể bảo vệ và ẩn ảnh, video &amp; toàn bộ album. Bạn có thể tự bảo vệ ứng dụng hoặc đặt khóa trên các chức năng cụ thể của ứng dụng. Ví dụ, bạn không thể xóa một tập tin mà chưa quét dấu vân tay, giúp bảo vệ các tập tin của bạn khỏi bị xóa do vô tình.
@@ -384,7 +384,7 @@
         <b>Kiểm tra bộ công cụ Simple đầy đủ tại đây:</b>
         https://www.simplemobiletools.com
 
-        <b>Website của Simple Gallery Pro:</b>
+        <b>Website của SFTP Gallery:</b>
         https://www.simplemobiletools.com/gallery
 
         <b>Facebook:</b>

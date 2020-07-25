@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Simple Gallery</string>
+    <string name="app_name">SFTP Gallery</string>
     <string name="app_launcher_name">Galeria</string>
     <string name="edit">Editar</string>
     <string name="open_camera">Obrir càmera</string>
@@ -51,9 +51,9 @@
     <string name="exclude">Excloure</string>
     <string name="excluded_folders">Carpetes excloses</string>
     <string name="manage_excluded_folders">Gestionar carpetes excloses</string>
-    <string name="exclude_folder_description">Això exclou la selecció juntament amb les carpetes, només de Simple Gallery. Pots gestionar les carpetes excloses en els Ajustaments.</string>
+    <string name="exclude_folder_description">Això exclou la selecció juntament amb les carpetes, només de SFTP Gallery. Pots gestionar les carpetes excloses en els Ajustaments.</string>
     <string name="exclude_folder_parent">Excloure millor la carpeta superior?</string>
-    <string name="excluded_activity_placeholder">Excloure les carpetes les ocultarà junt amb les seves subcarpetes, però només a Simple Gallery. Seguirant sent visibles a altres aplicacions.\n\nSi vols ocultar-les d’altres aplicacions fes servir la opció Ocultar.</string>
+    <string name="excluded_activity_placeholder">Excloure les carpetes les ocultarà junt amb les seves subcarpetes, però només a SFTP Gallery. Seguirant sent visibles a altres aplicacions.\n\nSi vols ocultar-les d’altres aplicacions fes servir la opció Ocultar.</string>
     <string name="remove_all">Eliminar tot</string>
     <string name="remove_all_description">Eliminar totes les carpetes de la llista d’excloses? Això no eliminarà les carpetes.</string>
     <string name="hidden_folders">Carpetes ocultes</string>
@@ -96,7 +96,7 @@
     <string name="other_aspect_ratio">Altres</string>              <!-- available as an option: 1:1, 4:3, 16:9, free, other -->
 
     <!-- Set wallpaper -->
-    <string name="simple_wallpaper">Fons de pantalla de Simple Gallery</string>
+    <string name="simple_wallpaper">Fons de pantalla de SFTP Gallery</string>
     <string name="set_as_wallpaper">Establir com a fons de pantalla</string>
     <string name="set_as_wallpaper_failed">Error a l’establir com fons de pantalla</string>
     <string name="set_as_wallpaper_with">Establir com fons de pantalla amb:</string>
@@ -284,7 +284,7 @@
     <string name="pesdk_common_title_pipettableColor">Pipetejat de color</string>
 
     <!-- FAQ -->
-    <string name="faq_1_title">Com puc fer que Simple Gallery sigui la galeria de dispositius predeterminada?</string>
+    <string name="faq_1_title">Com puc fer que SFTP Gallery sigui la galeria de dispositius predeterminada?</string>
     <string name="faq_1_text">Primer heu de trobar la galeria actualment predeterminada a la secció Aplicacions de la configuració del vostre dispositiu, cerqueu un botó que digui alguna cosa semblant a \"Obrir per defecte \", feu-hi clic i seleccioneu \"Esborra valors predeterminats \".
         La propera vegada que proveu d’obrir una imatge o un vídeo, haureu de veure un selector d’aplicació, on podeu seleccionar Simple Galeria i convertir-la en la aplicació predeterminada.</string>
     <string name="faq_2_title">Vaig bloquejar l’aplicació amb una contrasenya, però l’he oblidat. Què puc fer?</string>
@@ -317,16 +317,16 @@
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
-    <string name="app_title">Simple Gallery Pro - Photo Manager &amp; Editor</string>
+    <string name="app_title">SFTP Gallery - Photo Manager &amp; Editor</string>
     <!-- Short description has to have less than 80 chars -->
     <string name="app_short_description">Browse your memories without any interruptions with this photo and video gallery</string>
     <string name="app_long_description">
-        Simple Gallery Pro és una galeria fora de línia altament personalitzable. Organitza i edita les teves fotos, recupera fitxers suprimits amb la paperera de reciclatge, protegeix i amaga fitxers, mostra una gran varietat de formats de foto i vídeo incloent RAW, SVG i molt més.
+        SFTP Gallery és una galeria fora de línia altament personalitzable. Organitza i edita les teves fotos, recupera fitxers suprimits amb la paperera de reciclatge, protegeix i amaga fitxers, mostra una gran varietat de formats de foto i vídeo incloent RAW, SVG i molt més.
 
         L’aplicació no conté anuncis ni permisos innecessaris. Com que l’aplicació tampoc no requereix accés a Internet, la vostra privadesa està protegida.
 
         -------------------------------------------------
-        <b>SIMPLE GALLERY PRO - CARACTERÍSTIQUES</b>
+        <b>SFTP GALLERY - CARACTERÍSTIQUES</b>
         -------------------------------------------------
 
         • Galeria sense connexió sense anuncis ni finestres emergents
@@ -337,7 +337,7 @@
         • Obre i visualitza molts tipus de fotos i de vídeo diferents (RAW, SVG, panoràmiques, etc.)
         • Una varietat de gestos intuïtius per editar fàcilment i organitzar els fitxers
         • Moltes maneres de filtrar, agrupar, amplificar i ordenar fitxers
-        • Personalitza l’aparença de Simple Gallery Pro
+        • Personalitza l’aparença de SFTP Gallery
         • Disponible en 32 idiomes
         • Marca els fitxers com a preferits per accedir ràpidament
         • Protegeix les teves fotos i vídeos amb un patró, pin o empremta digital
@@ -346,20 +346,20 @@
         • Canvia la visibilitat dels fitxers per ocultar fotografies i vídeos
         • Crea una presentació de diapositives personalitzable dels teus fitxers
         • Mostra informació detallada dels teus fitxers (resolució, valors EXIF, etc.)
-        • Simple Gallery Pro és de codi obert
+        • SFTP Gallery és de codi obert
         ... i molt més!
 
         <b>EDITOR DE GALERIA DE FOTOS </b>
-        Simple Gallery Pro et permet editar fàcilment les vostres imatges. Retalla, gira, gira i canvia la mida de les teves fotos. Si et sents una mica més creatiu, pots afegir filtres i dibuixar-ne les imatges.
+        SFTP Gallery et permet editar fàcilment les vostres imatges. Retalla, gira, gira i canvia la mida de les teves fotos. Si et sents una mica més creatiu, pots afegir filtres i dibuixar-ne les imatges.
 
         <b>SUPORT PER ALTRES TIPUS DE ARXIU </b>
-        A diferència d’altres aplicacions de galeria, Simple Gallery Pro suporta una gran varietat de tipus de fitxers diferents, inclosos JPEG, PNG, MP4, MKV, RAW, SVG, fotos panoràmiques, vídeos panoràmics i molts més.
+        A diferència d’altres aplicacions de galeria, SFTP Gallery suporta una gran varietat de tipus de fitxers diferents, inclosos JPEG, PNG, MP4, MKV, RAW, SVG, fotos panoràmiques, vídeos panoràmics i molts més.
 
         <b>GESTOR DE GALERIA ALTAMENT PERSONALITZABLE </b>
-        Des de la interfície d’usuari fins als botons de funció de la barra d’eines inferior, Simple Gallery Pro és altament personalitzable i funciona de la manera que desitgis. Cap altre aplicació de galeria té aquest tipus de flexibilitat. Gràcies a ser de codi obert, també estem disponibles en 32 idiomes.
+        Des de la interfície d’usuari fins als botons de funció de la barra d’eines inferior, SFTP Gallery és altament personalitzable i funciona de la manera que desitgis. Cap altre aplicació de galeria té aquest tipus de flexibilitat. Gràcies a ser de codi obert, també estem disponibles en 32 idiomes.
 
         <b>RECUPERES FOTOS I VÍDEOS </b>
-        Has suprimit accidentalment una foto o vídeo precios? No et preocupis! Simple Gallery Pro disposa d’una paperera de reciclatge on podeu recuperar fotos i vídeos eliminats fàcilment.
+        Has suprimit accidentalment una foto o vídeo precios? No et preocupis! SFTP Gallery disposa d’una paperera de reciclatge on podeu recuperar fotos i vídeos eliminats fàcilment.
 
         <b>PROTEGEIX, OCULTA FOTOS, VÍDEOS I ARXIUS </b>
         Amb el pin, el patró o l’escàner d’emprenta digital del teu dispositiu, pots protegir i amagar fotografies, vídeos i àlbums sencers. Pots protegir la pròpia aplicació o col·locar panys sobre funcions específiques de l’aplicació. Per exemple, no poder esborrar un fitxer sense una anàlisi d’empremtes digitals, ajudant-vos a protegir els teus fitxers de l’eliminació accidental.
@@ -367,7 +367,7 @@
         <b>Consulteu el conjunt complet d’eines senzilles aquí: </b>
         https://www.simplemobiletools.com
 
-        <b>Lloc web de Simple Gallery Pro:</b>
+        <b>Lloc web de SFTP Gallery:</b>
         https://www.simplemobiletools.com/gallery
 
         <b>Facebook:</b>

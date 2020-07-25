@@ -1,7 +1,7 @@
-Simple Gallery Pro là một bộ sưu tập ngoại tuyến có khả năng tùy biến cao. Tổ chức & chỉnh sửa ảnh của bạn, khôi phục các tệp đã xóa bằng thùng rác, bảo vệ & ẩn các tệp và xem được nhiều định dạng ảnh & video bao gồm RAW, SVG và nhiều hơn nữa. Ứng dụng này không chứa quảng cáo và các quyền không cần thiết. Vì ứng dụng không có yêu cầu truy cập internet, quyền riêng tư của bạn sẽ được bảo vệ.
+SFTP Gallery là một bộ sưu tập ngoại tuyến có khả năng tùy biến cao. Tổ chức & chỉnh sửa ảnh của bạn, khôi phục các tệp đã xóa bằng thùng rác, bảo vệ & ẩn các tệp và xem được nhiều định dạng ảnh & video bao gồm RAW, SVG và nhiều hơn nữa. Ứng dụng này không chứa quảng cáo và các quyền không cần thiết. Vì ứng dụng không có yêu cầu truy cập internet, quyền riêng tư của bạn sẽ được bảo vệ.
 
 -------------------------------------------------
-<b>SIMPLE GALLERY PRO – TÍNH NĂNG</b>
+<b>SFTP GALLERY – TÍNH NĂNG</b>
 -------------------------------------------------
 
 • Thư viện ngoại tuyến không có quảng cáo hoặc popups
@@ -12,7 +12,7 @@ Simple Gallery Pro là một bộ sưu tập ngoại tuyến có khả năng tù
 • Mở & xem nhiều loại ảnh và video khác nhau (RAW, SVG, toàn cảnh, v.v.)
 • Một loạt các cử chỉ trực quan để dễ dàng chỉnh sửa & tổ chức tập tin
 • Rất nhiều cách để lọc, nhóm & sắp xếp tập tin
-• Tùy chỉnh giao diện của Simple Gallery Pro
+• Tùy chỉnh giao diện của SFTP Gallery
 • Có sẵn trong 32 ngôn ngữ
 • Đánh dấu các tập tin là mục yêu thích để truy cập nhanh
 • Bảo vệ ảnh của bạn & video có mẫu hình, pin hoặc dấu vân tay
@@ -21,20 +21,20 @@ Simple Gallery Pro là một bộ sưu tập ngoại tuyến có khả năng tù
 • Chuyển đổi khả năng hiển thị của các tệp để ẩn ảnh & video
 • Tạo một slideshow tùy biến các tập tin của bạn
 • Xem thông tin chi tiết về các tập tin của bạn (độ phân giải, giá trị EXIF, v.v.)
-• Simple Gallery Pro là mã nguồn mở
+• SFTP Gallery là mã nguồn mở
   Nhiều và nhiều hơn nữa!
 
 <b>TRÌNH BIÊN TẬP ẢNH</b>
-Simple Gallery Pro giúp bạn dễ dàng chỉnh sửa ảnh của mình một cách nhanh chóng. Cắt, lật, xoay và thay đổi kích thước hình ảnh của bạn. Nếu bạn cảm thấy sáng tạo hơn một chút, bạn có thể thêm các bộ lọc và vẽ lên hình ảnh của mình!
+SFTP Gallery giúp bạn dễ dàng chỉnh sửa ảnh của mình một cách nhanh chóng. Cắt, lật, xoay và thay đổi kích thước hình ảnh của bạn. Nếu bạn cảm thấy sáng tạo hơn một chút, bạn có thể thêm các bộ lọc và vẽ lên hình ảnh của mình!
 
 <b>HỖ TRỢ NHIỀU ĐỊNH DẠNG FILE</b>
-Không giống như một số Trình xem thư viện khác & Trình tổ chức ảnh, Simple Gallery Pro hỗ trợ rất nhiều loại tệp khác nhau bao gồm JPEG, PNG, MP4, MKV, RAW, SVG, Ảnh toàn cảnh, Video toàn cảnh và nhiều loại khác.
+Không giống như một số Trình xem thư viện khác & Trình tổ chức ảnh, SFTP Gallery hỗ trợ rất nhiều loại tệp khác nhau bao gồm JPEG, PNG, MP4, MKV, RAW, SVG, Ảnh toàn cảnh, Video toàn cảnh và nhiều loại khác.
 
 <b>TRÌNH QUẢN LÝ THƯ VIỆN TÙY BIẾN CAO</b>
-Từ giao diện người dùng đến các nút chức năng trên thanh công cụ dưới cùng, Simple Gallery Pro có khả năng tùy biến cao và hoạt động theo cách bạn muốn. Không có trình quản lý thư viện nào khác có sự linh hoạt này! Nhờ nguồn mở, chúng tôi cũng có sẵn trong 32 ngôn ngữ!
+Từ giao diện người dùng đến các nút chức năng trên thanh công cụ dưới cùng, SFTP Gallery có khả năng tùy biến cao và hoạt động theo cách bạn muốn. Không có trình quản lý thư viện nào khác có sự linh hoạt này! Nhờ nguồn mở, chúng tôi cũng có sẵn trong 32 ngôn ngữ!
 
 <b>PHỤC HỒI ẢNH  & VIDEO ĐÃ BỊ XÓA</b>
-Vô tình xóa một bức ảnh hoặc video quý giá? Hãy lo lắng! Simple Gallery Pro có thùng rác tiện dụng, nơi bạn có thể khôi phục ảnh & video đã xóa dễ dàng.
+Vô tình xóa một bức ảnh hoặc video quý giá? Hãy lo lắng! SFTP Gallery có thùng rác tiện dụng, nơi bạn có thể khôi phục ảnh & video đã xóa dễ dàng.
 
 <b>BẢO VỆ & ẨN ẢNH ,VIDEO & TỆP</b>
 Sử dụng Mã pin, mẫu hình hoặc vân tay của bạn, bạn có thể bảo vệ và ẩn ảnh, video & toàn bộ album. Bạn có thể tự bảo vệ ứng dụng hoặc đặt khóa trên các chức năng cụ thể của ứng dụng. Ví dụ, bạn không thể xóa một tập tin mà chưa quét dấu vân tay, giúp bảo vệ các tập tin của bạn khỏi bị xóa do vô tình.
@@ -42,7 +42,7 @@ Sử dụng Mã pin, mẫu hình hoặc vân tay của bạn, bạn có thể b�
 <b>Kiểm tra bộ công cụ Simple đầy đủ tại đây:</b>
 https://www.simplemobiletools.com
 
-<b>Website của Simple Gallery Pro:</b>
+<b>Website của SFTP Gallery:</b>
 https://www.simplemobiletools.com/gallery
 
 <b>Facebook:</b>

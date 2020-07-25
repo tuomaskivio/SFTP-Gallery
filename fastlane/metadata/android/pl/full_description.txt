@@ -1,9 +1,9 @@
-Simple Gallery Pro to wysoce konfigurowalna galeria. Przeglądaj i edytuj swoje zdjęcia, dzięki funkcji kosza z łatwością odzyskuj przypadkowo (lub nie) ususnięte pliki, chroń je i ukrywaj dzięki różnym metodom zabezpieczeń. Nie martw się o obsługiwane formaty - wśród nich są m.in. RAW, SVG i wiele więcej.
+SFTP Gallery to wysoce konfigurowalna galeria. Przeglądaj i edytuj swoje zdjęcia, dzięki funkcji kosza z łatwością odzyskuj przypadkowo (lub nie) ususnięte pliki, chroń je i ukrywaj dzięki różnym metodom zabezpieczeń. Nie martw się o obsługiwane formaty - wśród nich są m.in. RAW, SVG i wiele więcej.
 
 Aplikacja nie zawiera reklam ani zezwoleń ponad te, których naprawdę potrzebuje. Nie musisz się także martwić o kwestie prywatności, gdyż nie potrzebuje ona dostępu do internetu.
 
 -------------------------------------------------
-<b>SIMPLE GALLERY PRO – FUNKCJE</b>
+<b>SFTP GALLERY – FUNKCJE</b>
 -------------------------------------------------
 
 • Brak reklam i denerwujących okienek
@@ -27,13 +27,13 @@ Aplikacja nie zawiera reklam ani zezwoleń ponad te, których naprawdę potrzebu
 … i wiele więcej!
 
 <b>EDYTOR ZDJĘĆ</b>
-Simple Gallery Pro ułatwi Ci szybką edycję zdjęć. Przycinaj je, przewracaj, obracaj, zmniejszaj i powiększaj. A w napływie kreatywności dodawaj filtry i narysuj coś na nich!
+SFTP Gallery ułatwi Ci szybką edycję zdjęć. Przycinaj je, przewracaj, obracaj, zmniejszaj i powiększaj. A w napływie kreatywności dodawaj filtry i narysuj coś na nich!
 
 <b>WSPARCIE DLA WIELU TYPÓW PLIKÓW</b>
-W przeciwieństwie do niektórych aplikacji galerii, Simple Gallery Pro wspiera dużo formatów plików, w tym JPEG, PNG, MP4, MKV, RAW, SVG, panoramiczne filmy i zdjęcia oraz wiele więcej.
+W przeciwieństwie do niektórych aplikacji galerii, SFTP Gallery wspiera dużo formatów plików, w tym JPEG, PNG, MP4, MKV, RAW, SVG, panoramiczne filmy i zdjęcia oraz wiele więcej.
 
 <b>WSZECHSTRONNOŚĆ</b>
-Od interfejsu do przycisków funkcyjnych na dolnym pasku, Simple Gallery Pro jest wysoce konfigurowalny, przez co działa i wygląda tak jak chcesz. Żadna inna aplikacja galerii nie jest pod tym względem tak wszechstronna. A dzięki naszej otwartości to wszystko dostępne jest w 32 językach (w tym po polsku :]).
+Od interfejsu do przycisków funkcyjnych na dolnym pasku, SFTP Gallery jest wysoce konfigurowalny, przez co działa i wygląda tak jak chcesz. Żadna inna aplikacja galerii nie jest pod tym względem tak wszechstronna. A dzięki naszej otwartości to wszystko dostępne jest w 32 językach (w tym po polsku :]).
 
 <b>ODZYSKIWANIE PLIKÓW</b>
 Coś Ci się niechcący usunęło? A może ktoś to zrobił po złości? Żaden problem! Dzięki funkcji kosza z łatwością to odzyskasz.

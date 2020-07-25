@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Simple Gallery</string>
+    <string name="app_name">SFTP Gallery</string>
     <string name="app_launcher_name">Galeri</string>
     <string name="edit">Sunting</string>
     <string name="open_camera">Buka kamera</string>
@@ -51,9 +51,9 @@
     <string name="exclude">Kecualikan</string>
     <string name="excluded_folders">Folder yang dikecualikan</string>
     <string name="manage_excluded_folders">Kelola folder yang dikecualikan</string>
-    <string name="exclude_folder_description">Ini akan mengecualikan folder yang dipilih dan seluruh subfoldernya hanya di Simple Gallery. Anda bisa mengelola folder yang dikecualikan di Pengaturan.</string>
+    <string name="exclude_folder_description">Ini akan mengecualikan folder yang dipilih dan seluruh subfoldernya hanya di SFTP Gallery. Anda bisa mengelola folder yang dikecualikan di Pengaturan.</string>
     <string name="exclude_folder_parent">Kecualikan folder induk?</string>
-    <string name="excluded_activity_placeholder">Mengecualikan folder akan menyembunyikan folder tersebut dan seluruh subfoldernya hanya di Simple Gallery, namun masih bisa dilihat di aplikasi lain.\n\nJika anda ingin menyembunyikannya dari aplikasi lain juga, gunakan fitur Sembunyikan.</string>
+    <string name="excluded_activity_placeholder">Mengecualikan folder akan menyembunyikan folder tersebut dan seluruh subfoldernya hanya di SFTP Gallery, namun masih bisa dilihat di aplikasi lain.\n\nJika anda ingin menyembunyikannya dari aplikasi lain juga, gunakan fitur Sembunyikan.</string>
     <string name="remove_all">Buang semua</string>
     <string name="remove_all_description">Buang semua folder dari daftar pengecualian? Ini tidak akan menghapus folder tersebut.</string>
     <string name="hidden_folders">Folder tersembunyi</string>
@@ -284,9 +284,9 @@
     <string name="pesdk_common_title_pipettableColor">Pipettable color</string>
 
     <!-- FAQ -->
-    <string name="faq_1_title">Bagaimana cara menjadikan Simple Gallery sebagai aplikasi galeri default?</string>
+    <string name="faq_1_title">Bagaimana cara menjadikan SFTP Gallery sebagai aplikasi galeri default?</string>
     <string name="faq_1_text">Pertama anda harus menemukan galeri default saat ini di bagian Aplikasi di Pengaturan perangkat, cari tombol dengan label seperti \"Buka secara default\", klik, lalu pilih \"Hapus default\".
-        Lain kali anda mencoba membuka gambar atau video, anda akan diminta memilih aplikasi, dan anda bisa memilih Simple Gallery dan menjadikannya default.</string>
+        Lain kali anda mencoba membuka gambar atau video, anda akan diminta memilih aplikasi, dan anda bisa memilih SFTP Gallery dan menjadikannya default.</string>
     <string name="faq_2_title">Saya mengunci aplikasi dengan sandi, tapi saya lupa. Apa yang harus dilakukan?</string>
     <string name="faq_2_text">Anda bisa menyelesaikannya dengan 2 cara. Anda bisa pasang ulang aplikasi, atau cari aplikasi ini di Pengaturan perangkat dan pilih \"Hapus data\". Ini akan menyetel ulang semua pengaturan anda, dan tidak akan menghapus berkas media apapun.</string>
     <string name="faq_3_title">Bagaimana agar album selalu muncul paling atas di dalam daftar?</string>
@@ -294,7 +294,7 @@
     <string name="faq_4_title">Bagaimana cara mempercepat laju video?</string>
     <string name="faq_4_text">You can do it by double tapping the side of the screen, or tapping the current or max duration texts near the seekbar. If you enable opening videos on a separate screen in the app settings, you can use horizontal gestures too.</string>
     <string name="faq_5_title">Apa perbedaan antara menyembunyikan dan mengecualikan folder?</string>
-    <string name="faq_5_text">Mengecualikan tidak akan menampilkan folder di Simple Gallery saja, sedangkan Sembunyikan bekerja sesuai aturan sistem dan akan menyembunyikan folder dari aplikasi galeri yang lain. Cara kerjanya dengan membuat berkas \".nomedia\" kosong pada folder yang diinginkan, yang bisa anda hapus juga dengan aplikasi pengelola berkas. Note that some devices do not allow hiding folders like Camera, Screenshots and Downloads.</string>
+    <string name="faq_5_text">Mengecualikan tidak akan menampilkan folder di SFTP Gallery saja, sedangkan Sembunyikan bekerja sesuai aturan sistem dan akan menyembunyikan folder dari aplikasi galeri yang lain. Cara kerjanya dengan membuat berkas \".nomedia\" kosong pada folder yang diinginkan, yang bisa anda hapus juga dengan aplikasi pengelola berkas. Note that some devices do not allow hiding folders like Camera, Screenshots and Downloads.</string>
     <string name="faq_6_title">Mengapa folder dengan gambar album musik atau stiker muncul?</string>
     <string name="faq_6_text">Kadang anda melihat beberapa album yang tidak biasa muncul. Anda bisa dengan mudah menyembunyikannya dengan menekan lama dan pilih Kecualikan. Pada dialog berikutnya, anda lalu bisa memilih folder induk, yang akan mencegah album terkait muncul kembali.</string>
     <string name="faq_7_title">Ada folder berisi gambar namun tidak muncul, apa yang harus dilakukan?</string>
@@ -317,16 +317,16 @@
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
-    <string name="app_title">Simple Gallery Pro - Pengelola &amp; Penyunting Foto</string>
+    <string name="app_title">SFTP Gallery - Pengelola &amp; Penyunting Foto</string>
     <!-- Short description has to have less than 80 chars -->
     <string name="app_short_description">Browse your memories without any interruptions with this photo and video gallery</string>
     <string name="app_long_description">
-        Simple Gallery Pro adalah aplikasi galeri luring yang sangat mudah diubahsuai. Mengelola &amp; menyunting foto anda, memulihkan berkas yang terhapus dari keranjang sampah, melindungi &amp; menyembunyikan berkas, dan menampilkan banyak format foto &amp; video, diantaranya RAW, SVG dan masih banyak lainnya.
+        SFTP Gallery adalah aplikasi galeri luring yang sangat mudah diubahsuai. Mengelola &amp; menyunting foto anda, memulihkan berkas yang terhapus dari keranjang sampah, melindungi &amp; menyembunyikan berkas, dan menampilkan banyak format foto &amp; video, diantaranya RAW, SVG dan masih banyak lainnya.
 
         Aplikasi sama sekali tidak berisi iklan dan tidak membutuhkan perizinan yang tidak perlu. Dan karena aplikasi juga tidak membutuhkan akses internet, privasi anda terlindungi.
 
         -------------------------------------------------
-        <b>SIMPLE GALLERY PRO – FITUR</b>
+        <b>SFTP GALLERY – FITUR</b>
         -------------------------------------------------
 
         • Galeri luring tanpa iklan dan popup
@@ -337,7 +337,7 @@
         • Buka &amp; lihat berbagai macam jenis foto dan video (RAW, SVG, panorama, dll)
         • Gestur untuk mempermudah penyuntingan &amp; mengelola berkas
         • Banyak cara untuk menambahkan filter, mengelompokkan &amp; mengurutkan berkas
-        • Sesuaikan tampilan Simple Gallery Pro
+        • Sesuaikan tampilan SFTP Gallery
         • Tersedia dalam 32 bahasa
         • Tandai berkas sebagai favorit untuk akses cepat
         • Lindungi foto &amp; video anda dengan pola, pin atau sidik jari
@@ -346,20 +346,20 @@
         • Ubah visibilitas berkas untuk menyembunyikan foto &amp; video
         • Buat slideshow khusus dari berkas anda
         • Lihat informasi detail berkas (resolusi, EXIF, dll)
-        • Simple Gallery Pro bersumber terbuka
+        • SFTP Gallery bersumber terbuka
         … dan masih banyak lagi!
 
         <b>PENYUNTING GALERI FOTO</b>
-        Simple Gallery Pro mempermudah anda menyunting foto. Pangkas, balik, putar dan ubah ukuran gambar anda. Jika anda merasa kreatif anda bisa menambahkan filter dan menggambar pada foto anda!
+        SFTP Gallery mempermudah anda menyunting foto. Pangkas, balik, putar dan ubah ukuran gambar anda. Jika anda merasa kreatif anda bisa menambahkan filter dan menggambar pada foto anda!
 
         <b>MENDUKUNG BANYAK TIPE BERKAS</b>
-        Tidak seperti penampil galeri &amp; pengelola foto lainnya, Simple Gallery Pro mendukung sangat banyak tipe berkas yang berbeda diantaranya JPEG, PNG, MP4, MKV, RAW, SVG, foto &amp; video Panorama, dan masih banyak lagi.
+        Tidak seperti penampil galeri &amp; pengelola foto lainnya, SFTP Gallery mendukung sangat banyak tipe berkas yang berbeda diantaranya JPEG, PNG, MP4, MKV, RAW, SVG, foto &amp; video Panorama, dan masih banyak lagi.
 
         <b>PENGELOLA GALERI YANG MUDAH DISESUAIKAN</b>
-        Dari UI sampai tombol tindakan pada bilah perkakas bawah, Simple Gallery Pro sangat mudah disesuaikan dengan keinginan anda. Tidak ada galeri lainnya yang memiliki kemampuan seperti ini! Karena bersumber terbuka, tersedia juga dalam 32 bahasa!
+        Dari UI sampai tombol tindakan pada bilah perkakas bawah, SFTP Gallery sangat mudah disesuaikan dengan keinginan anda. Tidak ada galeri lainnya yang memiliki kemampuan seperti ini! Karena bersumber terbuka, tersedia juga dalam 32 bahasa!
 
         <b>PULIHKAN FOTO &amp; VIDEO YANG TERHAPUS</b>
-        Secara tidak sengaja menghapus foto atau video? Jangan khawatir! Simple Gallery Pro juga menyertakan fitur Keranjang Sampah yang mempermudah anda memulihkan foto &amp; video yang terhapus.
+        Secara tidak sengaja menghapus foto atau video? Jangan khawatir! SFTP Gallery juga menyertakan fitur Keranjang Sampah yang mempermudah anda memulihkan foto &amp; video yang terhapus.
 
         <b>MELINDUNGI &amp; MENYEMBUNYIKAN FOTO, VIDEO &amp; BERKAS</b>
         Menggunakan pin, pola atau pemindai sidik jari perangkat, anda bisa melindungi dan menyembunyikan foto, video &amp; seluruh album. Anda bisa melindungi aplikasinya atau mengunci fungsi-fungsi yang lebih spesifik di dalam aplikasi. Contohnya, anda tidak bisa menghapus berkas tanpa memindai sidik jari, membantu melindungi anda menghapus berkas secara tidak sengaja.
@@ -367,7 +367,7 @@
         <b>Lihat semua aplikasi Simple Tools di sini:</b>
         https://www.simplemobiletools.com
 
-        <b>Standalone website of Simple Gallery Pro:</b>
+        <b>Standalone website of SFTP Gallery:</b>
         https://www.simplemobiletools.com/gallery
 
         <b>Facebook:</b>

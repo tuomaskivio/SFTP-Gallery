@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="app_name">Simple Gallery</string>
+    <string name="app_name">SFTP Gallery</string>
     <string name="app_launcher_name">Galéria</string>
     <string name="edit">Szerkesztés</string>
     <string name="open_camera">Kamera megnyitása</string>
@@ -51,9 +51,9 @@
     <string name="exclude">Kizárás</string>
     <string name="excluded_folders">Kizárt mappák</string>
     <string name="manage_excluded_folders">Kizárt mappák kezelése</string>
-    <string name="exclude_folder_description">Ez kizárja a kijelölést és az alkönyvtárakat a Simple Gallery alkalmazásból. A kizárt mappákat a Beállításokban kezelheti.</string>
+    <string name="exclude_folder_description">Ez kizárja a kijelölést és az alkönyvtárakat a SFTP Gallery alkalmazásból. A kizárt mappákat a Beállításokban kezelheti.</string>
     <string name="exclude_folder_parent">Kizárja a szülő mappát?</string>
-    <string name="excluded_activity_placeholder">A mappák kizárásával az almappákkal együtt elrejti a Simple Gallery alkalmazásban, de továbbra is láthatóak maradnak más alkalmazásokban.\n\nHa el szeretné rejteni őket más alkalmazásokban is, használja az Elrejtés funkciót.</string>
+    <string name="excluded_activity_placeholder">A mappák kizárásával az almappákkal együtt elrejti a SFTP Gallery alkalmazásban, de továbbra is láthatóak maradnak más alkalmazásokban.\n\nHa el szeretné rejteni őket más alkalmazásokban is, használja az Elrejtés funkciót.</string>
     <string name="remove_all">Összes eltávolítása</string>
     <string name="remove_all_description">Összes mappa eltávolítása a Kizárás listából. Ez nem törli a mappákat.</string>
     <string name="hidden_folders">Rejtett mappák</string>
@@ -284,9 +284,9 @@
     <string name="pesdk_common_title_pipettableColor">Pipetta szín</string>
 
     <!-- FAQ -->
-    <string name="faq_1_title">Hogyan tudom beállítani a Simple Gallery-t alapértelmezett galériának?</string>
+    <string name="faq_1_title">Hogyan tudom beállítani a SFTP Gallery-t alapértelmezett galériának?</string>
     <string name="faq_1_text">Először meg kell találnia az alapértelmezett galériát az eszköz beállításainak Alkalmazások részében. Keressen egy olyan gombot, amely valami olyasmit, mint az \"Legyen alapértelmezett\", kattintson rá, majd válassza a \"Alapértelmezések törlése\" pontot.
-A következő alkalommal, amikor megpróbál megnyitni egy képet vagy videót, megjelenik egy alkalmazásválasztó, ahol kiválaszthatja a Simple Gallery lehetőséget, és beállíthatja alapértelmezett alkalmazásnak.</string>
+A következő alkalommal, amikor megpróbál megnyitni egy képet vagy videót, megjelenik egy alkalmazásválasztó, ahol kiválaszthatja a SFTP Gallery lehetőséget, és beállíthatja alapértelmezett alkalmazásnak.</string>
     <string name="faq_2_title">Zároltam az alkalmazást jelszóval, de elfelejtettem. Mit tehetek?</string>
     <string name="faq_2_text">2 módon is megoldhatja. Újratelepítheti az alkalmazást, vagy megkeresi az alkalmazást az eszköz beállításai között, és válassza az \"Adatok törlése\" lehetőséget. Minden beállítást visszaállít alapértelmezettre. Ez nem távolítja el a média fájlokat.</string>
     <string name="faq_3_title">Hogyan állíthatok be egy albumot úgy, hogy mindig felül legyen?</string>
@@ -294,7 +294,7 @@ A következő alkalommal, amikor megpróbál megnyitni egy képet vagy videót, 
     <string name="faq_4_title">Hogyan tudom előre tekerni a videókat?</string>
     <string name="faq_4_text">You can do it by double tapping the side of the screen, or tapping the current or max duration texts near the seekbar. If you enable opening videos on a separate screen in the app settings, you can use horizontal gestures too.</string>
     <string name="faq_5_title">Mi a különbség a mappa elrejtése és kizárása között?</string>
-    <string name="faq_5_text">A Kizárás megakadályozza, hogy a mappát a Simple Gallery megjelenítse, az Elrejtés pedig rendszer szinten működik, és elrejti a mappát más galériákból is. Úgy működik, hogy létrehoz egy üres \". nomedia\" nevű fájlt az adott mappában, amelyet bármikor eltávolíthat bármilyen fájlkezelővel is. Note that some devices do not allow hiding folders like Camera, Screenshots and Downloads.</string>
+    <string name="faq_5_text">A Kizárás megakadályozza, hogy a mappát a SFTP Gallery megjelenítse, az Elrejtés pedig rendszer szinten működik, és elrejti a mappát más galériákból is. Úgy működik, hogy létrehoz egy üres \". nomedia\" nevű fájlt az adott mappában, amelyet bármikor eltávolíthat bármilyen fájlkezelővel is. Note that some devices do not allow hiding folders like Camera, Screenshots and Downloads.</string>
     <string name="faq_6_title">Miért jelennek meg a zenei borítóval vagy matricával rendelkező mappák?</string>
     <string name="faq_6_text">Lehet, hogy látni fog néhány szokatlan album megjelenést. Könnyen kizárhatja a hosszú megnyomással és a Kizárás kiválasztásával. A következő párbeszédablakban kiválaszthatja a szülő mappát, és valószínűleg megakadályozza, hogy a többi kapcsolódó album is megjelenjen.</string>
     <string name="faq_7_title">A képekkel nem rendelkező mappa nem jelenik meg, vagy nem jeleníti meg az összes elemet. Mit tehetek?</string>
@@ -317,27 +317,27 @@ Ezzel csak a kiválasztott mappák láthatók, mivel a kizárás és a befoglal�
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
-    <string name="app_title">Simple Gallery Pro - Photo Manager &amp; Editor</string>
+    <string name="app_title">SFTP Gallery - Photo Manager &amp; Editor</string>
     <!-- Short description has to have less than 80 chars -->
     <string name="app_short_description">Browse your memories without any interruptions with this photo and video gallery</string>
     <string name="app_long_description">
-        Simple Gallery Pro is a highly customizable offline gallery. Organize &amp; edit your photos, recover deleted files with the recycle bin, protect &amp; hide files and view a huge variety of different photo &amp; video formats including RAW, SVG and much more.
+        SFTP Gallery is a highly customizable offline gallery. Organize &amp; edit your photos, recover deleted files with the recycle bin, protect &amp; hide files and view a huge variety of different photo &amp; video formats including RAW, SVG and much more.
 
         The app contains no ads and unnecessary permissions. As the app doesn’t require internet access either, your privacy is protected.
 
         -------------------------------------------------
-        <b>SIMPLE GALLERY PRO – FEATURES</b>
+        <b>SFTP GALLERY – FEATURES</b>
         -------------------------------------------------
 
         • Offline gallery with no ads or popups
-        • Simple gallery photo editor – crop, rotate, resize, draw, filters &amp; more
+        • SFTP gallery photo editor – crop, rotate, resize, draw, filters &amp; more
         • No internet access needed, giving you more privacy and security
         • No unnecessary permissions required
         • Quickly search images, videos &amp; files
         • Open &amp; view many different photo and video types (RAW, SVG, panoramic etc)
         • A variety of intuitive gestures to easily edit &amp; organize files
         • Lots of ways to filter, group &amp; sort files
-        • Customize the appearance of Simple Gallery Pro
+        • Customize the appearance of SFTP Gallery
         • Available in 32 languages
         • Mark files as favorites for quick access
         • Protect your photos &amp; videos with a pattern, pin or fingerprint
@@ -346,20 +346,20 @@ Ezzel csak a kiválasztott mappák láthatók, mivel a kizárás és a befoglal�
         • Toggle visibility of files to hide photos &amp; videos
         • Create a customizable slideshow of your files
         • View detailed information of your files (resolution, EXIF values etc)
-        • Simple Gallery Pro is open source
+        • SFTP Gallery is open source
         … and much much more!
 
         <b>PHOTO GALLERY EDITOR</b>
-        Simple Gallery Pro makes it easy to edit your pictures on the fly. Crop, flip, rotate and resize your pictures. If you’re feeling a little more creative you can add filters and draw on your pictures!
+        SFTP Gallery makes it easy to edit your pictures on the fly. Crop, flip, rotate and resize your pictures. If you’re feeling a little more creative you can add filters and draw on your pictures!
 
         <b>SUPPORT FOR MANY FILE TYPES</b>
-        Unlike some other gallery viewers &amp; photo organizers, Simple Gallery Pro supports a huge range of different file types including JPEG, PNG, MP4, MKV, RAW, SVG, Panoramic photos, Panoramic videos and many more.
+        Unlike some other gallery viewers &amp; photo organizers, SFTP Gallery supports a huge range of different file types including JPEG, PNG, MP4, MKV, RAW, SVG, Panoramic photos, Panoramic videos and many more.
 
         <b>HIGHLY CUSTOMIZABLE GALLERY MANAGER</b>
-        From the UI to the function buttons on the bottom toolbar, Simple Gallery Pro is highly customizable and works the way you want it to. No other gallery manager has this kind of flexibility! Thanks to being open source, we’re also available in 32 languages!
+        From the UI to the function buttons on the bottom toolbar, SFTP Gallery is highly customizable and works the way you want it to. No other gallery manager has this kind of flexibility! Thanks to being open source, we’re also available in 32 languages!
 
         <b>RECOVER DELETED PHOTOS &amp; VIDEOS</b>
-        Accidentally deleted a precious photo or video? Don’t worry! Simple Gallery Pro features a handy recycle bin where you can recover deleted photos &amp; videos easily.
+        Accidentally deleted a precious photo or video? Don’t worry! SFTP Gallery features a handy recycle bin where you can recover deleted photos &amp; videos easily.
 
         <b>PROTECT &amp; HIDE PHOTOS, VIDEOS &amp; FILES</b>
         Using pin, pattern or your device’s fingerprint scanner you can protect and hide photos, videos &amp; entire albums. You can protect the app itself or place locks on specific functions of the app. For example, you can’t delete a file without a fingerprint scan, helping to protect your files from accidental deletion.
@@ -367,7 +367,7 @@ Ezzel csak a kiválasztott mappák láthatók, mivel a kizárás és a befoglal�
         <b>Nézze meg a Simple Tools csomagot itt:</b>
         https://www.simplemobiletools.com
 
-        <b>A Simple Gallery Pro önálló weboldala:</b>
+        <b>A SFTP Gallery önálló weboldala:</b>
         https://www.simplemobiletools.com/gallery
 
         <b>Facebook:</b>
