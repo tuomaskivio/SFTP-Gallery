@@ -122,7 +122,7 @@ class NewEditActivity : SimpleActivity() {
                 toast(R.string.image_editing_cancelled)
                 finish()
             } else {
-                // the image is stored at the internal app storage first, for example /data/user/0/com.simplemobiletools.gallery.pro/cache/editor/IMG_20191207_183023.jpg
+                // the image is stored at the internal app storage first, for example /data/user/0/com.simplemobiletools.pro/cache/editor/IMG_20191207_183023.jpg
                 // first we rename it to the desired name, then move
                 val sourceString = Uri.decode(sourceImageUri.toString())?.toString() ?: ""
                 val source = if (sourceString.isEmpty() || sourceString.startsWith("content")) {
